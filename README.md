@@ -2,6 +2,8 @@
 ###A Theme for Ubuntu/Gnome/Unity/Metacity/and Whatever?###
 Author: CptSpaceToaster
 
+![Preview](http://i.imgur.com/HaNtEJV.jpg "Logo")
+
 Notes: Made for Ubuntu 12.04LTS, but it will probably work in other places.
 - Assumes user is running Nautilus
 - Assumes you like dark-grey and dark-dark-grey
